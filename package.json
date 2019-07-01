@@ -37,5 +37,24 @@
   },
   "jest": {
     "preset": "react-native"
+  },
+  "checkSubmission": {
+    "ex": "3",
+    "students": [
+      {
+        "id": "206059586",
+        "fullName": "Ran Shem Tov",
+        "email": "ranshem@live.com"
+      },
+      {
+        "id": "313613226",
+        "fullName": "Hodaya Simhi",
+        "email": "hodayasimhii@gmail.com"
+      }
+    ],
+    "os": "Windows",
+    "device": "Android",
+    "deliveryDate": "07/02/2019",
+    "delay": true
   }
 }
