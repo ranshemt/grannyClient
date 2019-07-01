@@ -1,0 +1,31 @@
+{
+  "explorer.sortOrder": "type",
+  "workbench.colorCustomizations": {
+    "terminal.background": "#000c18"
+  },
+  "explorer.sortOrder": "type",
+  "vsicons.associations.folders": [
+    {
+      "icon": "paket",
+      "extensions": ["ctrls", "ctrl", "control", "controlers", "controllers"],
+      "format": "svg"
+    },
+    { "icon": "mongodb", "extensions": ["DB"], "format": "svg" },
+    {
+      "icon": "kubernetes",
+      "extensions": ["funcs", "function", "functions", "func"],
+      "format": "svg"
+    },
+    {
+      "icon": "graphql",
+      "extensions": ["auth", "authenticate", "authentication"],
+      "format": "svg"
+    }
+  ],
+  "vsicons.associations.files": [
+    { "icon": "config", "extensions": ["env"], "format": "svg" }
+  ],
+  "prettier.eslintIntegration": true,
+  "editor.formatOnSave": true,
+  "eslint.autoFixOnSave": true
+}
